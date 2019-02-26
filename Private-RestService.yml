@@ -2,4 +2,4 @@ rest:
   service:
     cloud:
       config:
-        example: GitRepository example value for private service modificado - test eurobits
+        example: GitRepository example value for private service modificado - test eurobits - otro
